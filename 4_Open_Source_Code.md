@@ -7,8 +7,21 @@ Paying attention to the particular license of the software is particularly impor
 More permissive licenses exist, and should be sought to maximize the freedoms available not only to the GC, but to all Canadians. In cases where a restrictive license is in place for a particular piece of software, it may be possible to ask the authors to relicense that software under more permissive terms.
 
 ### Code Repositories
+#### US
+- [Code.gov](https://code.gov/#/) - a platform designed to improve access to the federal government’s custom-developed software. 
+- [Forge.mil](http://www.forge.mil/) - Source code repository for open source projects of the US military.
 
-### Examples
+#### UK
+- [Government Digital Service](https://github.com/alphagov)
+
+#### Australia
+- [Digital Transformation Office](https://github.com/AusDTO)
+
+#### Republic of Argentina
+- https://github.com/argob
+- https://github.com/gcba
+
+### Policy Examples
 #### US
 - [Digital Services Playbook](https://playbook.cio.gov/) - If the codebase has not been released under an open source license, explain why.
 - [18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) - Develop our work in the open - publish publicly all source code created or modified by 18F, whether developed in-house by government staff or through contracts negotiated by 18F.
